@@ -1,1 +1,1 @@
-There is new tesn project for education work with Git
+Hello, Hexlet! How are you?
